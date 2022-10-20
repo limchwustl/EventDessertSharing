@@ -1,0 +1,27 @@
+.nav-container{
+    display:flex;
+    flex-flow: column;
+    align-items:center;
+    gap: 40px;
+    grid-area: nav-container;
+}
+
+.nav-ul{
+    display:flex;
+    gap: 20em;
+
+    list-style-type: none;
+}
+
+.nav-li{
+  
+}
+
+.nav-link{
+    text-decoration: none;
+    color: #000000;
+}
+
+.title{
+    font-size: 40px;
+}
